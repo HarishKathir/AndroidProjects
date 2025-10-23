@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_indigo">#2E1A47</color>
+    <color name="twilight_purple">#3B1E89</color>
+    <color name="blue_violet">#6E64D8</color>
+    <color name="misty_white">#DDE6FF</color>
+    <color name="frosted_transparent">#33FFFFFF</color>
+    <color name="sky_blue">#5BC0EB</color>
+    <color name="coral_orange">#FF6F61</color>
+    <color name="lime_green">#A4FF8B</color>
+    <color name="amber_yellow">#FFC857</color>
+</resources>
